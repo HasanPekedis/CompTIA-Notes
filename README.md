@@ -1,2 +1,2 @@
 # CompTIA-Notes
-I share my notes when ı took working on CompTIA Cyber Security Course. 
+I am sharing the notes I took while working on the CompTIA Cybersecurity Course.
